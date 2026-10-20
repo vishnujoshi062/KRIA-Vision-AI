@@ -39,7 +39,6 @@ Individual projects retain their own implementation details and instructions in 
 - **FPGA development:** Vivado, IP Integrator, AXI-based interfaces, programmable logic
 - **Embedded software:** Linux, PetaLinux workflows, C/C++, Python
 - **AI deployment:** Vitis AI and DPU-based inference workflows
-- **Development practices:** Git, hardware bring-up, debugging, profiling, and system integration
 
 Tool and platform requirements vary by project. Refer to each project's documentation for its supported versions and exact build steps.
 
