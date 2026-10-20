@@ -4,11 +4,12 @@
 
 ### Embedded Vision · FPGA Acceleration · Embedded Linux · Edge AI
 
-Engineering embedded vision systems on AMD Xilinx Kria platforms — from video pipelines and programmable logic to Linux-based deployment and accelerated computer vision.
+Engineering embedded vision systems on AMD Xilinx Kria platforms from video pipelines to Linux-based deployment and accelerated computer vision.
 
-<p>
-  <img src="https://www.amd.com/content/dam/amd/en/images/products/som/2362834-kv260-product.jpg" alt="AMD Xilinx Kria KV260 Starter Kit" width="720">
-</p>
+<img src="images/kria-kv260-board.png"
+     alt="AMD Xilinx Kria KV260 Starter Kit with hardware interfaces labelled"
+     width="750">
+
 
 </div>
 
@@ -51,32 +52,4 @@ Individual projects retain their own implementation details and instructions in 
 - **Development practices:** Git, hardware bring-up, debugging, profiling, and system integration
 
 Tool and platform requirements vary by project. Refer to each project's documentation for its supported versions and exact build steps.
-
-## Repository Structure
-
-This repository acts as the entry point for a collection of related projects. Where projects are included as Git submodules, initialize them with:
-
-```bash
-git clone --recurse-submodules https://github.com/vishnujoshi062/Kria-Vision-AI.git
-cd Kria-Vision-AI
-```
-
-For an existing clone, fetch the project contents with:
-
-```bash
-git submodule update --init --recursive
-```
-
-## Direction
-
-The goal is to develop a clearer, more reproducible path from video input and FPGA processing to embedded AI inference and deployment. That means validating each layer independently, understanding how data moves through the system, and documenting the integration work needed to make the whole pipeline reliable.
-
----
-
-<div align="center">
-
-**Kria Vision AI**  
-*From pixels to intelligence — engineered at the edge.*
-
-</div>
 
