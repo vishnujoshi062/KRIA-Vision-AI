@@ -6,9 +6,7 @@
 
 Engineering embedded vision systems on AMD Xilinx Kria platforms from video pipelines to Linux-based deployment and accelerated computer vision.
 
-<img src="images/kria-kv260-board.png"
-     alt="AMD Xilinx Kria KV260 Starter Kit with hardware interfaces labelled"
-     width="750">
+<img width="1198" height="733" alt="image" src="https://github.com/user-attachments/assets/d5938159-f1b2-452b-beec-1ceff839a011" />
 
 
 </div>
