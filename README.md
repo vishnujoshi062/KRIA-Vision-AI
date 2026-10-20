@@ -38,7 +38,9 @@ The repository brings together work across several related directions:
 - **Embedded AI inference** — exploring object detection and other vision workloads on Kria hardware.
 - **DPU profiling** — examining inference performance and the practical considerations of running accelerated models at the edge.
 - **Linux-based deployment** — developing repeatable paths from hardware design and boot configuration to application execution on the target.
+## Embedded Vision & Linux Platform Development
 
+Exploring the embedded vision ecosystem on AMD Xilinx Kria platforms, spanning Vitis Vision Library–based image processing, embedded Linux development, kernel and device driver development, and custom platform integration using PetaLinux and Yocto. The focus includes developing vision applications for Kria SOMs, building custom Linux environments, and creating reusable Docker images for application deployment, development, and testing on embedded targets.
 Individual projects retain their own implementation details and instructions in their respective repositories.
 
 ## Platform & Toolchain
