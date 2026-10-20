@@ -1,0 +1,9 @@
+[submodule "Test-Pattern-Generator-on-KRIA-Vision-AI"]
+	path = Test-Pattern-Generator-on-KRIA-Vision-AI
+	url = https://github.com/vishnujoshi062/Test-Pattern-Generator-on-KRIA-Vision-AI.git
+[submodule "DPU_Profiling_on_KV260"]
+	path = DPU_Profiling_on_KV260
+	url = https://github.com/vishnujoshi062/DPU_Profiling_on_KV260.git
+[submodule "Yolov7_Kria"]
+	path = Yolov7_Kria
+	url = https://github.com/vishnujoshi062/Yolov7_Kria.git
