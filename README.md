@@ -24,20 +24,10 @@ The work spans the boundary between hardware and software: building video paths 
 | Area | What it covers |
 | --- | --- |
 | **Embedded vision** | Video timing, pixel streams, camera and display paths, test-pattern generation, and vision pipeline integration |
-| **FPGA design** | Vivado IP integration, AXI interfaces, programmable-logic data paths, and hardware–software co-design |
 | **Embedded Linux** | Custom image and boot workflows, application startup, device configuration, and PS–PL integration |
 | **Edge AI** | Object detection, segmentation, pose estimation, and deployment of neural-network inference on embedded hardware |
 | **AI acceleration** | Vitis AI and DPU-based inference workflows, model integration, and accelerator-aware execution |
-| **Profiling and validation** | Functional debugging, inference profiling, system bottleneck analysis, and performance-oriented experimentation |
 
-## Project Directions
-
-The repository brings together work across several related directions:
-
-- **Video pipeline development** — establishing and validating video generation, timing, streaming, and display output on the Kria KV260.
-- **Embedded AI inference** — exploring object detection and other vision workloads on Kria hardware.
-- **DPU profiling** — examining inference performance and the practical considerations of running accelerated models at the edge.
-- **Linux-based deployment** — developing repeatable paths from hardware design and boot configuration to application execution on the target.
 ## Embedded Vision & Linux Platform Development
 
 Exploring the embedded vision ecosystem on AMD Xilinx Kria platforms, spanning Vitis Vision Library–based image processing, embedded Linux development, kernel and device driver development, and custom platform integration using PetaLinux and Yocto. The focus includes developing vision applications for Kria SOMs, building custom Linux environments, and creating reusable Docker images for application deployment, development, and testing on embedded targets.
