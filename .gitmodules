@@ -10,3 +10,6 @@
 [submodule "kv260_Pose_detection"]
 	path = kv260_Pose_detection
 	url = https://github.com/vishnujoshi062/kv260_Pose_detection.git
+[submodule "Yolox_nano_KV260"]
+	path = Yolox_nano_KV260
+	url = https://github.com/vishnujoshi062/Yolox_nano_KV260.git
