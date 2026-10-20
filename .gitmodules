@@ -7,3 +7,6 @@
 [submodule "Yolov7_Kria"]
 	path = Yolov7_Kria
 	url = https://github.com/vishnujoshi062/Yolov7_Kria.git
+[submodule "kv260_Pose_detection"]
+	path = kv260_Pose_detection
+	url = https://github.com/vishnujoshi062/kv260_Pose_detection.git
